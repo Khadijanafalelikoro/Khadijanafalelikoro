@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khadija Nafale Likoro
 - 💻 Software Engineer. 
 - 🌱 I’m currently improving my skills  
-- 💞️ I'll be glad to collaborate on solving complex probles.
+- 💞️ I'll be glad to collaborate on solving complex problems.
 - 📫 How to reach me nafalelikorojusticek@gmail.com
  
 
